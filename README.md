@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a [Unity Mod Manager](https://github.com/PixelDevelops/unity-mod-manager) which handles the modding process for Unity games
 - 🌱 I’m currently learning advanced C#
 - 💬 Ask me about anything, I might be able to answer
 - 📫 How to reach me: friend me on Discord: pixelxd!#7970
